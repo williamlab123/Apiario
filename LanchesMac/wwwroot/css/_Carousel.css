@@ -1,0 +1,7 @@
+﻿body {
+}
+.carousel-inner {
+    max-height: 300px; /* altura máxima que deseja definir */
+    max-width:none;
+}
+
